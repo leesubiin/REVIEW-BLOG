@@ -1,7 +1,7 @@
 CLASS C언어
 # REVIEW-BLOG 
 
-First_day 
+#First_day 
 
  //  줌 아웃 ===>crtl + 휠
 
@@ -17,7 +17,8 @@ First_day
 
  // 줄번호 ==> 도구 ==> 옵션 ==> 텍스트편집기 ==>C/C++ ==> 줄번호
  // 일시정지 기능 추가
- # include < Windows.h> // 일시정지 기능이 있는 파일
+ 
+  # include < Windows.h> // 일시정지 기능이 있는 파일
  void main(){
 
 	system ("pause");
